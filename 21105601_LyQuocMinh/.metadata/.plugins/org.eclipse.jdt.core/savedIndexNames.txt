@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\Tai_lieu_hoc_tap\OOP\21105601_LyQuocMinh\.metadata\.plugins\org.eclipse.jdt.core
+4225789514.index
+1659453424.index
+1509799344.index
+1865797976.index

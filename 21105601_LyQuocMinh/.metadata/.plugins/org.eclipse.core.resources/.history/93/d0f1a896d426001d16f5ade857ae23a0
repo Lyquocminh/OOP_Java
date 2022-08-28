@@ -1,0 +1,15 @@
+package bai_01;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		ToaDo a = new ToaDo('m', 3.4, 5.5);
+		System.out.println("Nhap vao ten: ");
+		char c = sc.nextChar();
+		a.setTen(c);
+	}
+
+}

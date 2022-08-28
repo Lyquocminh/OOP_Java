@@ -1,0 +1,18 @@
+package phan01;
+
+import java.util.Scanner;
+
+/**
+ * 
+ * @author Lý Quốc Minh
+ * Viết chương trình nhập vào tên của mình và xuất ra màn hình “Hello + Tên”.
+ */
+public class Bai_02 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Nhap vao ten: ");
+		String s = sc.nextLine();	
+		System.out.println("Hello "+ s);
+	}
+}
